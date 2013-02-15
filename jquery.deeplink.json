@@ -1,0 +1,10 @@
+{
+    "jquery.deeplink": {
+        "uri": "git://github.com/Knewton/jQuery-Deeplink.git",
+        "comp": ["js", "css"],
+        "reqs": {
+            "hash": ["jquery.hash"],
+            "&": ["jquery.deparam", "jquery.update"]
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "jquery.update": {
+        "uri": "git://github.com/Knewton/jQuery-Update.git",
+        "comp": ["js"],
+        "reqs": ["jquery"]
+    }
+}

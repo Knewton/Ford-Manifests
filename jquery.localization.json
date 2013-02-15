@@ -1,0 +1,7 @@
+{
+    "jquery.localization": {
+        "uri": "git://github.com/Knewton/jQuery-Localization.git",
+        "comp": ["js"],
+        "reqs": ["jquery"]
+    }
+}

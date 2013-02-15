@@ -1,0 +1,7 @@
+{
+    "jquery.markup": {
+        "uri": "git://github.com/Knewton/jQuery-Markup.git",
+        "comp": ["js"],
+        "reqs": ["jquery"]
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"jquery.api": {
+		"uri": "git://github.com/Knewton/jQuery-API.git",
+		"comp": ["js"],
+		"reqs": ["jquery"]
+	}
+}

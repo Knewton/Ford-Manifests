@@ -1,0 +1,7 @@
+{
+    "jquery.form": {
+        "uri": "git://github.com/Knewton/jQuery-Form.git",
+        "comp": ["js"],
+        "reqs": [["jquery.", ["api", "markup", "update", "validate", "lightbox", "format"]]]
+    }
+}
