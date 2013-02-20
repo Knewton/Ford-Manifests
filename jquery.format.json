@@ -1,4 +1,4 @@
-e
+{
     "jquery.format": {
         "uri": "git://github.com/Knewton/jQuery-Format.git",
         "comp": ["js"],
