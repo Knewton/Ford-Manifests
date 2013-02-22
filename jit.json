@@ -1,0 +1,10 @@
+{
+	"*": {
+		"uri": "http://philogb.github.com/jit/downloads/Jit-2.0.1.zip",
+		"packaged": "zip",
+		"root": "Jit"
+	},
+	"jit": {
+		"comp": ["js"]
+	}
+}
