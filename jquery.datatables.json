@@ -3,6 +3,6 @@
 		"uri": "http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.0/",
 		"comp": {"js": "jquery.dataTables"},
 		"reqs": ["jquery"],
-        "note": "Between the 1.9.0 and the 1.9.3 release, jQuery DataTables made it so if you have a link as a data value <a href="...">foo</a> it will ALWAYS RESPOND WHEN YOU SEARCH FOR href OR a, especially when you expliclty tell it not to following the documentation. Because fuck you that's why."
+        "note": "Between the 1.9.0 and the 1.9.3 release, jQuery DataTables made it so if you have a link as a data value <a ...>foo</a> it will ALWAYS RESPOND WHEN YOU SEARCH FOR href OR a, especially when you expliclty tell it not to following the documentation. Because fuck you that's why."
 	}
 }
