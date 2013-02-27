@@ -1,0 +1,10 @@
+{
+    "jquery-ui-bootstrap": {
+        "uri": "git://github.com/addyosmani/jquery-ui-bootstrap.git",
+        "comp": {
+            "css": "css/custom-theme/jquery-ui-1.10.1.custom",
+            "images/": null
+        },
+        "reqs": ["jquery", "jqueryui", "twitter-bootstrap"]
+    }
+}
