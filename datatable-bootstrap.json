@@ -1,0 +1,21 @@
+{
+	"*": {
+		"uri": "http://www.datatables.net/media/blog/bootstrap_2/"
+	},
+	"datatable-bootstrap": {
+		"comp": {
+			"js": "DT_bootstrap.js",
+			"css": "DT_bootstrap.css",
+			"images": [
+				"images/sort_both.png",
+				"images/sort_asc.png",
+				"images/sort_desc.png",
+				"images/sort_asc_disabled.png",
+				"images/sort_desc_disabled.png"
+			]
+		},
+		"reqs": {
+			"&": ["jquery.datatables", "twitter-bootstrap"]
+		}
+	}
+}
