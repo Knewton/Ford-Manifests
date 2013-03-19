@@ -1,6 +1,7 @@
 {
     "bootstrap-contextmenu": {
         "uri": "git://github.com/sydcanem/bootstrap-contextmenu.git",
-        "comp": ["js"]
+        "comp": ["js"],
+        "reqs": ["twitter-bootstrap"]
     }
 }
