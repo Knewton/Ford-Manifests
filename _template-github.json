@@ -1,0 +1,8 @@
+{
+    ":REPO_NAME": {
+        "uri": "git://github.com/:USERNAME/:REPO_NAME.git",
+        "comp": {
+            "js": "relative/path/to/file.js"
+        }
+    }
+}
