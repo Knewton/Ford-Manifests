@@ -3,7 +3,7 @@
         "uri": "git://github.com/addyosmani/jquery-ui-bootstrap.git",
         "root": "css/custom-theme",
         "comp": {
-            "css": "jquery-ui-1.10.1.custom",
+            "css": "jquery-ui-1.10.2.custom.css",
             "images/": null
         },
         "reqs": ["jquery", "jqueryui", "twitter-bootstrap"]
