@@ -1,0 +1,11 @@
+{
+	"*": {
+		"uri": "git://github.com/square/crossfilter.git"
+	},
+	"crossfilter": {
+		"comp": ["js"],
+		"reqs": {
+			"&": ["d3", "jquery"]
+		}
+	}
+}
