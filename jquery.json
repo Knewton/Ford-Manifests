@@ -1,6 +1,6 @@
 {
     "jquery": {
-        "uri": "//ajax.googleapis.com/ajax/libs/jquery/2.0/",
+        "uri": "//ajax.googleapis.com/ajax/libs/jquery/2.0.0/",
         "comp": ["js"]
     }
 }
