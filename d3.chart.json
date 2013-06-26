@@ -1,6 +1,6 @@
 {
 	"d3.chart": {
-		"uri": "git://github.com/Knewton/Store-js.gi://github.com/misoproject/d3.chart.git",
+		"uri": "git://github.com/misoproject/d3.chart.git",
 		"comp": ["js"]
 	}
 }
