@@ -1,0 +1,7 @@
+{
+	"jquery.stickyfloat": {
+		"uri": "https://github.com/yairEO/stickyfloat.git",
+		"comp": {"js": "stickyfloat.js"},
+		"reqs": ["jquery"]
+	}
+}

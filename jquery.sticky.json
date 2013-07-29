@@ -1,0 +1,7 @@
+{
+	"jquery.sticky": {
+		"uri": "https://github.com/garand/sticky.git",
+		"comp": {"js": "jquery.sticky.js"},
+		"reqs": ["jquery"]
+	}
+}

@@ -1,6 +1,6 @@
 {
     "*": {
-        "uri": "http://twitter.github.com/bootstrap/assets/bootstrap.zip",
+        "uri": "http://twitter.github.io/bootstrap/2.3.2/assets/bootstrap.zip",
         "packaged": "zip",
         "root": "bootstrap"
     },
