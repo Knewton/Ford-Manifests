@@ -1,0 +1,19 @@
+{
+    "*": {
+        "uri": "https://github.com/dhotson/springy.git"
+    },
+    "springy": {
+        "comp": {
+            "js": "springy"
+        },
+        "reqs": ["jquery"]
+    },
+    "springy-ui": {
+        "comp": {
+            "js": "springyui"
+        },
+        "reqs": {
+            ".": ["springy"]
+        }
+    }
+}
