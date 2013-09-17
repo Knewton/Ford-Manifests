@@ -1,0 +1,11 @@
+{
+    "*": {
+        "uri": "https://github.com/markmalek/Fixed-Header-Table.git"
+    },
+    "fixed-header-table": {
+        "comp": {
+            "js": "jquery.fixedheadertable"
+        },
+        "reqs": ["jquery"]
+    }
+}
