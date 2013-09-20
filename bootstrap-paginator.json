@@ -1,0 +1,10 @@
+{
+    "*": {
+        "uri": "https://github.com/lyonlai/bootstrap-paginator.git",
+        "root": "src"
+    },
+    "bootstrap-paginator": {
+        "comp": ["js"],
+        "reqs": ["twitter-bootstrap"]
+    }
+}
