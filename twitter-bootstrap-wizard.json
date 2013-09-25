@@ -1,0 +1,9 @@
+{
+    "twitter-bootstrap-wizard": {
+        "uri": "https://github.com/VinceG/twitter-bootstrap-wizard.git",
+        "comp": {
+            "js": "jquery.bootstrap.wizard"
+        },
+        "reqs": ["twitter-bootstrap"]
+    }
+}
