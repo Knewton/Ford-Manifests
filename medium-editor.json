@@ -1,0 +1,10 @@
+{
+    "medium-editor": {
+        "uri": "https://github.com/daviferreira/medium-editor.git",
+        "root": "dist",
+        "comp": {
+            "css": "css/medium.editor",
+            "js": "js/medium.editor"
+        }
+    }
+}
