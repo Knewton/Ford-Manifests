@@ -4,6 +4,9 @@
         "comp": {
             "css": "css/jquery.tagit",
             "js": "js/tag-it"
+        },
+        "reqs": {
+            "&": ["jquery"]
         }
     }
 }
