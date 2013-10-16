@@ -1,6 +1,9 @@
 {
     "jquery.taggit": {
         "uri": "https://github.com/aehlke/tag-it.git",
-        "comp": ["css", "js"]
+        "comp": {
+            "css": "css/jquery.taggit",
+            "js": "js/jquery.taggit"
+        }
     }
 }
