@@ -6,7 +6,7 @@
             "js": "js/tag-it"
         },
         "reqs": {
-            "&": ["jquery"]
+            "&": ["jqueryui"]
         }
     }
 }
