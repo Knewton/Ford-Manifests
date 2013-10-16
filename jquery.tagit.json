@@ -3,7 +3,7 @@
         "uri": "https://github.com/aehlke/tag-it.git",
         "comp": {
             "css": "css/jquery.tagit",
-            "js": "js/jquery.tagit"
+            "js": "js/tag-it"
         }
     }
 }
