@@ -1,0 +1,8 @@
+{
+    "jquery.knob": {
+        "uri": "https://github.com/aterrien/jQuery-Knob.git",
+        "comp": {
+            "js": "js/jquery.knob"
+        }
+    }
+}
