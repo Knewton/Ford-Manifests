@@ -1,6 +1,6 @@
 {
     "jquery.divplaceholder": {
-        "uri": "https://github.com/sprucemedia/jQuery.divPlaceholder.js.git"
+        "uri": "https://github.com/sprucemedia/jQuery.divPlaceholder.js.git",
         "root": "src/",
         "comp": {
             "js": "jQuery.divPlaceholder",
