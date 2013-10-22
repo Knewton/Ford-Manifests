@@ -5,6 +5,7 @@
         "comp": {
             "js": "jQuery.divPlaceholder",
             "css": "jQuery.divPlaceholder"
-        }
+        },
+        "reqs": ["jquery"]
     }
 }
