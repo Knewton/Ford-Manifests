@@ -1,0 +1,8 @@
+{
+    "sanitize-js": {
+        "uri": "https://github.com/gbirke/Sanitize.js.git",
+        "comp": {
+            "js": "lib/sanitize"
+        }
+    }
+}
