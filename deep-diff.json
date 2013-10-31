@@ -1,0 +1,8 @@
+{
+    "deep-diff": {
+        "uri": "https://github.com/flitbit/diff.git",
+        "comp": {
+            "js": "index"
+        }
+    }
+}
