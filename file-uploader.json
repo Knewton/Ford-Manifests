@@ -2,7 +2,7 @@
     "file-uploader": {
         "uri": "git://github.com/Widen/fine-uploader.git",
         "comp": {
-            "js": "http://cdnjs.cloudflare.com/ajax/libs/file-uploader/3.1.1/fineuploader.min.js",
+            "js": "http://cdnjs.cloudflare.com/ajax/libs/file-uploader/3.1.1/fineuploader.js",
             "css": "client/fineuploader.css",
             "images": ["client/loading.gif", "client/processing.gif"]
         }
