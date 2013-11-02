@@ -1,1 +1,1 @@
-{"jquery-tubeplayer": {"version": "1.1.6", "uri": "http://cdnjs.cloudflare.com/ajax/libs/jquery-tubeplayer/1.1.6/jquery.tubeplayer.min.js", "comp": ["js"], "reqs": ["jquery"]}}
+{"jquery-tubeplayer": {"version": "1.1.6", "uri": "http://cdnjs.cloudflare.com/ajax/libs/jquery-tubeplayer/1.1.6/jquery.tubeplayer.js", "comp": ["js"], "reqs": ["jquery"]}}
