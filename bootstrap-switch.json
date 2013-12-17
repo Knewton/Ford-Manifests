@@ -1,12 +1,12 @@
 {
     "*": {
         "uri": "https://github.com/nostalgiaz/bootstrap-switch.git",
-        "root": "static"
+        "root": "build"
     },
     "bootstrap-switch": {
         "comp": {
             "js": "js/bootstrap-switch",
-            "css": "stylesheets/bootstrap-switch"
+            "css": "css/bootstrap2/bootstrap-switch"
         },
         "reqs": ["twitter-bootstrap"]
     }
